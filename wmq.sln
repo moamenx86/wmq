@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wmq.Client", "wmq.Client\wmq.Client.csproj", "{AF4C57F3-87FA-4E27-91F2-1774C65F5568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wmq.Data", "wmq.Data\wmq.Data.csproj", "{2FF11FD5-8EDB-4686-B390-67D427BCE27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wmq.Redirect", "wmq.Redirect\wmq.Redirect.csproj", "{9151E421-C11F-4296-B5AE-8A394483B7A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4C57F3-87FA-4E27-91F2-1774C65F5568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4C57F3-87FA-4E27-91F2-1774C65F5568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4C57F3-87FA-4E27-91F2-1774C65F5568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4C57F3-87FA-4E27-91F2-1774C65F5568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF11FD5-8EDB-4686-B390-67D427BCE27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF11FD5-8EDB-4686-B390-67D427BCE27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF11FD5-8EDB-4686-B390-67D427BCE27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF11FD5-8EDB-4686-B390-67D427BCE27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9151E421-C11F-4296-B5AE-8A394483B7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9151E421-C11F-4296-B5AE-8A394483B7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9151E421-C11F-4296-B5AE-8A394483B7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9151E421-C11F-4296-B5AE-8A394483B7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

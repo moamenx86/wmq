@@ -1,0 +1,16 @@
+namespace wmq.Client.Controllers.Data.Models
+{
+    public class Url
+    {
+        public int Id { get; set; }
+        public string OriginalUrl { get; set; }
+        public string ShortenedUrl { get; set; }
+        public int? UserId { get; set; }
+        public int ClickCount { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime? LastUpdate { get; set; }
+        
+
+
+    }
+}
